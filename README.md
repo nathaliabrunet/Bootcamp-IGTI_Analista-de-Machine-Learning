@@ -1,8 +1,8 @@
-# Bootcamp-IGTI_Analista-de-Machine-Learning
+# Bootcamp Analista de Machine Learning - IGTI
 
 #### Repositório com o conteúdo desenvolvido no Bootcamp Analista de Machine Learning - IGTI (https://www.igti.com.br/)
 
-###### ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+###### --------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Conteúdo Bootcamp
 
