@@ -1,8 +1,27 @@
+
 # Bootcamp Analista de Machine Learning - IGTI
 
-#### Repositório com o conteúdo desenvolvido no Bootcamp Analista de Machine Learning - IGTI (https://www.igti.com.br/)
+## Tópicos 
 
-###### --------------------------------------------------------------------------------------------------------------------------------------------
+[Descrição](#Descrição)
+
+[Estrutura do Diretório](#Estrutura-do-Diretório)
+
+[Conteúdo Bootcamp](#Conteúdo-Bootcamp)
+
+
+### Descrição
+Repositório com o conteúdo desenvolvido no Bootcamp Analista de Machine Learning - IGTI <https://www.igti.com.br>
+
+
+### Estrutura do Diretório
+
+```
+├───Bootcamp-IGTI_Analista-de-Machine-Learning
+│   ├───Módulo 1
+│   └───Módulo 2
+```
+
 
 ### Conteúdo Bootcamp
 
@@ -33,3 +52,4 @@
 
 * Exploração e generalização;
 * Algoritmos supervisionados, não-supervisionados e treinamento por reforço.
+
