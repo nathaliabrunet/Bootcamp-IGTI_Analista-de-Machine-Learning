@@ -20,6 +20,7 @@ Repositório com o conteúdo desenvolvido no Bootcamp Analista de Machine Learni
 ├───Bootcamp-IGTI_Analista-de-Machine-Learning
 │   ├───Módulo 1
 │   └───Módulo 2
+│   └───Módulo 3
 ```
 
 
